@@ -1,0 +1,4 @@
+com\faadi\examplespringbootmaven\ExampleSpringBootMavenApplication.class
+com\faadi\examplespringbootmaven\controller\CoffeeController.class
+com\faadi\examplespringbootmaven\service\CoffeeService.class
+com\faadi\examplespringbootmaven\entity\Coffee.class
