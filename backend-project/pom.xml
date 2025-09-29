@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.faadi</groupId>
-	<artifactId>example-spring-boot-maven</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-boot</artifactId>
+	<version>0.0.1</version>
 	<name>example-spring-boot-maven</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
