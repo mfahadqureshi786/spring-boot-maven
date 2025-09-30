@@ -8,7 +8,7 @@ import { Coffee } from '../models/coffee';
   providedIn: 'root'
 })
 export class CoffeeService {
-  apiUrl = 'http://localhost:8080/api/v1/coffee';
+  apiUrl = 'http://localhost:80/api/v1/coffee';
   constructor(private http: HttpClient) { }
 
   getAll(){
