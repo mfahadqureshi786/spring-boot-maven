@@ -1,2 +1,1 @@
-
-test
+Workflow is manually disabled.
